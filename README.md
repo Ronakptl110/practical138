@@ -15,6 +15,12 @@
 - JavaScript
 - Docker
 
+## github command 
+git init
+ git add .
+ git branch -M main
+ git remote add origin https://github.com/Ronakptl110/practical138.git
+ git push -u origin main
 ## Run Project
 
 Open index.html in browser.
